@@ -22,7 +22,7 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 #### Priority Order:
 1. ✅ **401(k) to company match** (6% = $4,800 + $2,400 match)
 2. ✅ **MAX OUT Roth IRA** ($7,000/year)
-3. ✅ **Then increase 401(k)** toward max ($23,000 limit)
+3. ✅ **Then increase 401(k)** toward max ($23,500 limit)
 4. ✅ **Taxable brokerage** if you still have room
 
 #### Why Roth IRA First at This Age:
@@ -103,7 +103,7 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 #### Priority Order:
 1. ✅ **401(k) to company match** (always)
-2. ✅ **MAX OUT 401(k)** ($23,000/year, or $30,500 with catch-up at 50+)
+2. ✅ **MAX OUT 401(k)** ($23,500/year, or $31,000 with catch-up at 50+)
 3. ✅ **Then MAX Roth IRA** (still do it, but after 401k)
 4. ✅ **Health Savings Account (HSA)** if available
 5. ✅ **Taxable brokerage** for early retirement bridge
@@ -127,7 +127,7 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 **4. Catch-Up Contributions**
 - At age 50+: Can add $7,500 MORE to 401(k)
-- Total: $30,500/year to 401(k)
+- Total: $31,000/year to 401(k)
 - Roth IRA: Only $8,000/year at 50+
 - **401(k) allows 3.8x more savings**
 
@@ -143,10 +143,10 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 | Account | Annual | 10 Years Total | Age 55 Value (7%) |
 |---------|--------|----------------|-------------------|
-| 401(k) max | $23,000 | $230,000 | $331,000 |
+| 401(k) max | $23,500 | $235,000 | $338,500 |
 | 401(k) catch-up (50+) | +$7,500 | +$37,500 | +$55,000 |
 | Roth IRA | $7,000 | $70,000 | $101,000 |
-| **Total** | **$37,500** | **$337,500** | **$487,000** |
+| **Total** | **$38,000** | **$342,500** | **$493,500** |
 
 Plus your existing savings from ages 25-45!
 
@@ -203,7 +203,7 @@ Annual Total: $31,000/year (26% savings rate)
 ### Age 45:
 ```
 Monthly (assume $130K income):
-- 401(k): $1,917 (max $23K/year)
+- 401(k): $1,958 (max $23.5K/year)
 - Roth IRA: $583 (max)
 - Taxable: $750
 - Total: $3,250/month saved
@@ -214,13 +214,13 @@ Annual Total: $39,000/year (30% savings rate)
 ### Age 50+:
 ```
 Monthly (assume $140K income):
-- 401(k): $2,542 (max $30.5K with catch-up)
+- 401(k): $2,583 (max $31K with catch-up)
 - Roth IRA: $667 (max $8K with catch-up)
 - Taxable: $800
 - HSA: $333 (if eligible)
 - Total: $4,342/month saved
 
-Annual Total: $52,100/year (37% savings rate)
+Annual Total: $52,500/year (38% savings rate)
 ```
 
 ---
@@ -268,6 +268,58 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 
 ---
 
+## ⚠️ Important: Income Limits & Advanced Strategies
+
+### Roth IRA Income Phase-Out Limits (2026)
+
+**If you're single:**
+- Full contribution allowed: Under $150,000
+- Partial contribution: $150,000-$165,000
+- No direct contribution: Over $165,000
+
+**If you're married filing jointly:**
+- Full contribution allowed: Under $236,000
+- Partial contribution: $236,000-$246,000
+- No direct contribution: Over $246,000
+
+### What to Do if You Exceed Income Limits
+
+**Option 1: Backdoor Roth IRA**
+- Contribute to Traditional IRA (no income limits)
+- Immediately convert to Roth IRA
+- Pay taxes on conversion (minimal if done quickly)
+- Works even if you earn $500K+
+
+**Option 2: Focus on 401(k) and Mega Backdoor Roth**
+- Max out 401(k) contributions ($23,500 in 2026)
+- If your employer supports it, use **Mega Backdoor Roth** strategy
+- Can contribute up to $44,100 MORE to Roth through after-tax 401(k)
+- See [Investment Strategy Guide](./investment-strategy.md#mega-backdoor-roth-advanced-strategy-for-high-earners) for details
+
+**Known employers with Mega Backdoor Roth:**
+- ✅ Amazon (full support)
+- ✅ Major tech companies (Google, Microsoft, Meta, Apple)
+- Ask your HR: "Does our 401(k) allow after-tax contributions with in-service conversions?"
+
+### High Income Game Plan (Earning $150K+)
+
+**Priority order when you exceed Roth IRA limits:**
+1. ✅ 401(k) to company match (always first)
+2. ✅ MAX OUT 401(k) ($23,500)
+3. ✅ Backdoor Roth IRA ($7,000 via conversion)
+4. ✅ Mega Backdoor Roth (up to $44,100 if employer allows)
+5. ✅ HSA if available ($4,300)
+6. ✅ Taxable brokerage for remaining savings
+
+**Annual potential at $200K income:**
+- 401(k): $23,500
+- Backdoor Roth: $7,000
+- Mega Backdoor Roth: $44,100
+- HSA: $4,300
+- **Total tax-advantaged: $78,900/year!**
+
+---
+
 ## 🚫 Common Mistakes to Avoid
 
 ### ❌ Mistake 1: "I'll max 401(k) first because bigger is better"
@@ -290,6 +342,11 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 - At $80K income, Roth IRA is almost always better
 - You can't touch Traditional IRA until 59½ without penalty
 - Roth gives you flexibility for early retirement
+
+### ❌ Mistake 5: "I make too much for Roth IRA anymore"
+- You can still do Backdoor Roth IRA at ANY income
+- If employer allows, Mega Backdoor Roth lets you save $44K+ more
+- Don't leave tax-free growth on the table!
 
 ---
 

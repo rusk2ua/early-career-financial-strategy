@@ -355,17 +355,125 @@ Action:
 - Pay minimal taxes on conversions
 - Access money without penalty
 
-### Mega Backdoor Roth (If Available)
+### Mega Backdoor Roth (Advanced Strategy for High Earners)
 
 **What it is:**
-- Contribute after-tax money to 401(k)
-- Immediately convert to Roth
-- Way to get more than $7K into Roth annually
+The Mega Backdoor Roth is a powerful strategy that allows you to contribute significantly more to Roth accounts beyond the standard $7,000 Roth IRA limit. This is especially valuable for:
+- High earners who exceed Roth IRA income limits
+- Those who want to maximize tax-free retirement savings
+- Anyone with an employer that supports this feature
 
-**Requirements:**
-- Employer 401(k) allows after-tax contributions
-- Employer allows in-service conversions
-- Rare but incredibly valuable if available
+**How it works:**
+1. Max out regular 401(k) contributions ($23,500 in 2026)
+2. Make additional **after-tax** (not Roth, not pre-tax) contributions to 401(k)
+3. Immediately convert those after-tax contributions to Roth 401(k) or Roth IRA
+4. Result: Tax-free growth forever, just like a Roth IRA
+
+**The Math:**
+```
+2026 Total 401(k) Limit:              $70,000
+Your contribution (pre-tax):          -$23,500
+Employer match (3% on $80K):          -$2,400
+Remaining for after-tax:              $44,100
+
+Potential Mega Backdoor Roth:         $44,100/year!
+```
+
+**Requirements (ALL must be met):**
+1. ✅ Employer 401(k) plan allows **after-tax contributions** (not just Roth 401(k))
+2. ✅ Employer plan allows **in-service conversions** (convert while still employed)
+3. ✅ You've already maxed regular 401(k) ($23,500)
+4. ✅ You have extra cash flow to contribute beyond the $23,500
+
+**Known Employers Supporting Mega Backdoor Roth:**
+- ✅ **Amazon** - Full support for Mega Backdoor Roth
+- ✅ Many large tech companies (Google, Microsoft, Meta, Apple)
+- ✅ Some financial services firms
+- ❌ Most small/medium businesses do NOT support this
+
+**How to Check if Your Employer Offers This:**
+1. Contact HR or 401(k) plan administrator
+2. Ask: "Does our 401(k) plan allow after-tax contributions?"
+3. Ask: "Does our plan allow in-service conversions or withdrawals?"
+4. If both are YES, you can do Mega Backdoor Roth!
+
+**Tax Implications:**
+- After-tax contributions: NOT tax deductible (you pay tax now)
+- Conversions to Roth: No additional tax if converted immediately
+- Future growth: 100% tax-free (just like Roth IRA)
+- Withdrawals in retirement: 100% tax-free
+
+**Comparison to Regular Roth:**
+
+| Strategy | Annual Limit | Tax Benefit | Income Limits |
+|----------|--------------|-------------|---------------|
+| Roth IRA | $7,000 | Tax-free growth | Yes ($150K-$165K phase-out) |
+| Roth 401(k) | $23,500 | Tax-free growth | No income limits |
+| **Mega Backdoor Roth** | **Up to $44,100** | **Tax-free growth** | **No income limits** |
+
+**Example Timeline:**
+```
+January 2026:
+- Set 401(k) to $1,958/month ($23,500/year)
+- Set after-tax 401(k) to $3,675/month ($44,100/year)
+- Enable automatic in-service conversion to Roth
+
+Every paycheck:
+- $1,958 goes to pre-tax 401(k)
+- $3,675 goes to after-tax 401(k)
+- After-tax amount automatically converts to Roth 401(k)
+
+End of year:
+- Pre-tax 401(k): $23,500 (compounds tax-deferred)
+- Roth 401(k): $44,100 (compounds tax-free!)
+- Total: $67,600 in retirement accounts!
+```
+
+**30-Year Impact:**
+```
+Mega Backdoor Roth ($44,100/year for 30 years at 8%):
+- Total contributed: $1,323,000
+- Value at retirement: $5,439,000
+- All tax-free withdrawals: Save ~$1,087,800 in taxes!
+
+Regular investing ($44,100/year in taxable account):
+- Value at retirement: $5,439,000
+- Taxes on gains (20%): -$1,087,800
+- Net: $4,351,200
+
+Mega Backdoor advantage: $1,087,800!
+```
+
+**When to Use Mega Backdoor Roth:**
+
+✅ **DO use if:**
+- You max out regular 401(k) and Roth IRA
+- Your employer supports it (like Amazon)
+- You have cash flow to contribute more
+- You're a high earner (over Roth IRA limits)
+
+❌ **DON'T use if:**
+- You haven't maxed regular 401(k) yet (do that first!)
+- You haven't maxed Roth IRA yet (do that first!)
+- Your employer doesn't support it
+- You need the cash flow for other goals
+
+**Important Notes:**
+- This is NOT the same as a "Backdoor Roth IRA" (different strategy)
+- Requires discipline to convert immediately (avoid tax on growth)
+- Some plans only allow annual conversions (less ideal than immediate)
+- If you leave your job, you can roll Roth 401(k) to Roth IRA
+
+**Action Steps if Your Employer Offers This:**
+1. Max out regular 401(k) first ($23,500)
+2. Max out Roth IRA first ($7,000)
+3. Contact 401(k) administrator to set up after-tax contributions
+4. Set up automatic in-service conversions to Roth
+5. Contribute as much extra as you can afford
+6. Watch your tax-free retirement account grow exponentially!
+
+**For Amazon Employees:**
+Amazon's 401(k) plan (through Fidelity) fully supports Mega Backdoor Roth with automatic in-service conversions. If you work at Amazon and earn $120K+, this strategy can help you save an additional $40K+/year tax-free!
 
 ---
 

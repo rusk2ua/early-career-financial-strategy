@@ -27,7 +27,7 @@
 ### 2️⃣ Max Out Roth IRA Every Year
 
 **Immediate Action:**
-- Contribute **$7,000/year** (2024-2025 limit)
+- Contribute **$7,000/year** (2026 limit)
 - Set up automatic monthly transfer: **$583/month**
 - Invest in aggressive growth index funds
 
@@ -36,6 +36,12 @@
 - Flexibility for early retirement (withdraw contributions penalty-free)
 - $7K/year for 30 years = **$664,000 tax-free** (at 7% growth)
 - Critical for early retirement access before age 59½
+
+**⚠️ High Earners (Income >$150K):**
+- Roth IRA phases out at $150K-$165K (single) or $236K-$246K (married)
+- Use Backdoor Roth IRA strategy (still works!)
+- If employer allows (like Amazon), consider **Mega Backdoor Roth** for up to $44K more/year
+- See [Age-Based Priorities](./docs/age-based-priorities.md#important-income-limits--advanced-strategies) for details
 
 ### 3️⃣ Adopt the "Pay Yourself First" 30% Savings Rule
 
@@ -169,5 +175,5 @@ This guide is provided under the MIT License. Feel free to share and adapt for p
 
 ---
 
-**Last Updated:** November 2025
+**Last Updated:** January 2026
 **Created by:** Retiree giving advice to younger self

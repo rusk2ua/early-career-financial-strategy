@@ -288,7 +288,7 @@ Focus:
 ### Age 40-50: Acceleration Phase
 ```
 Focus:
-- Max 401(k) ($23K/year)
+- Max 401(k) ($23.5K/year)
 - Max Roth IRA ($7-8K/year)
 - Heavily fund taxable brokerage ($10K+/year)
 - Increase emergency fund to 12 months
@@ -297,7 +297,7 @@ Focus:
 ### Age 50-55: Final Push
 ```
 Focus:
-- Max 401(k) with catch-up ($30.5K/year)
+- Max 401(k) with catch-up ($31K/year)
 - Max Roth IRA with catch-up ($8K/year)
 - Continue taxable brokerage
 - Save healthcare bridge fund ($50K)
