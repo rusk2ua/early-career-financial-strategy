@@ -177,3 +177,9 @@ This guide is provided under the MIT License. Feel free to share and adapt for p
 
 **Last Updated:** January 2026
 **Created by:** Retiree giving advice to younger self
+
+---
+
+## ⚠️ Disclaimer
+
+**Note: This is not financial advice. Seek guidance from a professional investment advisor and/or CPA familiar with your situation before making investment decisions.**
