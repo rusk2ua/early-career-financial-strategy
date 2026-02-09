@@ -369,3 +369,9 @@ Your 55-year-old self will thank you for having hundreds of thousands in tax-fre
 - Invest in aggressive index fund portfolio
 - Don't touch it for 30 years
 - Watch it grow to $664K+ tax-free!
+
+---
+
+## ⚠️ Disclaimer
+
+**Note: This is not financial advice. Seek guidance from a professional investment advisor and/or CPA familiar with your situation before making investment decisions.**

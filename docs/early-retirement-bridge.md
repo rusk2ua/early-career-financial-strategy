@@ -399,3 +399,9 @@ Action:
 - Taxable: Start in your 30s, accelerate in 40s
 
 Your 55-year-old self will thank you! 🎉
+
+---
+
+## ⚠️ Disclaimer
+
+**Note: This is not financial advice. Seek guidance from a professional investment advisor and/or CPA familiar with your situation before making investment decisions.**

@@ -516,3 +516,9 @@ Amazon's 401(k) plan (through Fidelity) fully supports Mega Backdoor Roth with a
 ---
 
 **Remember:** The best investment strategy is the one you can stick with for 30 years. Keep it simple, keep it low-cost, and stay the course!
+
+---
+
+## ⚠️ Disclaimer
+
+**Note: This is not financial advice. Seek guidance from a professional investment advisor and/or CPA familiar with your situation before making investment decisions.**
