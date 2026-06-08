@@ -13,7 +13,7 @@
 | 15 | $163,314 | $174,773 | $187,297 | $217,722 |
 | 20 | $256,882 | $280,918 | $308,219 | $381,950 |
 | 25 | $376,926 | $422,714 | $476,094 | $663,271 |
-| 30 | $528,751 | $664,388 | $734,421 | $1,231,393 |
+| 30 | $528,751 | $664,388 | $792,960 | $1,231,393 |
 | 35 | $718,093 | $966,071 | $1,296,408 | $2,171,073 |
 
 **Key insight:** Starting at 25 vs 35 = $500K+ difference!
@@ -274,21 +274,20 @@ Examples:
    - Official SEC calculator
    - Simple and accurate
 
-2. **Personal Capital Retirement Planner**
-   - https://www.personalcapital.com/financial-software/retirement-planner
+2. **Empower Retirement Planner** (formerly Personal Capital)
    - Monte Carlo simulation
    - Accounts for inflation
-   - Free with account
+   - Free with account at empower.com
 
 3. **FIRECalc**
    - https://firecalc.com/
-   - Based on historical market data
-   - Great for early retirement planning
+   - Based on historical market data going back to 1871
+   - Great for projecting retirement sustainability across different market conditions
 
 4. **cFIREsim**
    - https://www.cfiresim.com/
-   - Advanced FIRE calculator
-   - Multiple scenarios
+   - Monte Carlo retirement simulator
+   - Models multiple scenarios including spending changes and part-time income
 
 ---
 
