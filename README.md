@@ -1,6 +1,6 @@
-# Early Career Financial Strategy for Early Retirement
+# Early Career Financial Strategy
 
-> A comprehensive guide for achieving financial independence and retiring between ages 55-60
+> A practical guide for building long-term wealth and retiring on your own terms — targeting age 55-60
 
 ## 📊 Your Profile
 
@@ -37,10 +37,10 @@
 - $7K/year for 30 years = **$664,000 tax-free** (at 7% growth)
 - Critical for early retirement access before age 59½
 
-**⚠️ High Earners (Income >$150K):**
-- Roth IRA phases out at $150K-$165K (single) or $236K-$246K (married)
+**⚠️ High Earners (Income >$165K):**
+- Roth IRA phases out at $165K-$180K (single) or $246K-$261K (married) — verify current limits at IRS.gov each year
 - Use Backdoor Roth IRA strategy (still works!)
-- If employer allows (like Amazon), consider **Mega Backdoor Roth** for up to $44K more/year
+- If employer allows (like Amazon), consider **Mega Backdoor Roth** for up to $46K more/year
 - See [Age-Based Priorities](./docs/age-based-priorities.md#important-income-limits--advanced-strategies) for details
 
 ### 3️⃣ Adopt the "Pay Yourself First" 30% Savings Rule
@@ -90,7 +90,7 @@
 | **33-34** | 🎯 **First $250K** | $250,000 |
 | 40 | Half-millionaire | $550,000 |
 | 50 | Millionaire+ | $1,400,000 |
-| **55** | **FIRE!** 🔥 | **$2,100,000** |
+| **55** | **Retire on your terms** | **$2,100,000** |
 
 *Assumes $24K/year savings at 8% annual return*
 
@@ -99,24 +99,21 @@
 - [Age-Based Priority Guide](./docs/age-based-priorities.md) - Roth IRA vs 401(k) at different life stages
 - [Investment Strategy](./docs/investment-strategy.md) - Portfolio allocation and fund selection
 - [Early Retirement Bridge](./docs/early-retirement-bridge.md) - Accessing money before 59½
-- [Tax Optimization](./docs/tax-optimization.md) - Maximize tax efficiency
-- [Monthly Action Plan](./docs/monthly-action-plan.md) - What to do each month
 
 ## 🧮 Financial Calculators
 
-- [Retirement Calculator](./calculators/retirement-calculator.md) - Project your retirement date
 - [Compound Interest Calculator](./calculators/compound-interest.md) - See your money grow
-- [Roth vs Traditional Calculator](./calculators/roth-vs-traditional.md) - Compare tax strategies
 
 ## 💡 Key Principles
 
 1. **Start NOW** - Every year delayed costs ~$200K+ by retirement
-2. **Automate everything** - Treat savings like a bill
+2. **Automate everything** - Treat savings like a bill; remove the decision
 3. **Never touch the principal** - Let compound interest work
 4. **Maximize tax-advantaged accounts first** - Then taxable accounts
-5. **Stay the course** - Don't panic sell during market downturns
-6. **Keep expenses low** - Every dollar saved is $7.61 in retirement
-7. **Increase savings with raises** - Don't inflate lifestyle
+5. **Stay the course** - The hardest and most important rule. Your emotional reaction to a crash is a bigger threat to your wealth than the crash itself.
+6. **Choose an allocation you can hold through a crisis** - A slightly conservative portfolio you keep beats an aggressive one you abandon at the bottom
+7. **Keep expenses low** - Every dollar saved is $7.61 in retirement
+8. **Increase savings with raises** - Don't inflate lifestyle
 
 ## 🚀 Action Items for This Week
 
@@ -133,12 +130,12 @@
 
 | Category | Amount | % of Net |
 |----------|--------|----------|
-| 401(k) (15%) | $1,000 | 20% |
-| Roth IRA | $583 | 12% |
-| Living Expenses | $4,000 | 80% |
-| **Remaining** | -$583 | -12% |
+| 401(k) pre-tax (15%) | $1,000 | — (reduces taxable income) |
+| Roth IRA | $583 | 12% of net |
+| Living Expenses | $4,000 | 80% of net |
+| **Remaining** | ~$417 | ~8% |
 
-*Note: This is tight. Consider reducing expenses or increasing 401(k) gradually.*
+*Note: The 401(k) contribution reduces your taxable income and paycheck withholding, so it doesn't come straight out of your $5,000 net figure above. Budget is tight but workable — prioritize the match and Roth IRA first, then build up over time.*
 
 ## 🔗 Recommended Resources
 
@@ -148,24 +145,35 @@
 - **Schwab** - Good for active traders, great checking account
 
 ### Educational Resources
-- r/financialindependence - Reddit community
-- Mr. Money Mustache - Early retirement blog
-- JL Collins Stock Series - Simple investment philosophy
+- JL Collins Stock Series - Simple investment philosophy (free online)
 - "The Simple Path to Wealth" by JL Collins
-- "Your Money or Your Life" by Vicki Robin
+- "The Psychology of Money" by Morgan Housel — essential reading on behavior and wealth
+- "Die With Zero" by Bill Perkins — counterweight perspective on saving vs. living
+- Bogleheads.org forum — index-investing community
 
 ### Calculators & Tools
-- Personal Capital - Free wealth tracking
-- Mint - Budget tracking
-- FIRECalc - Retirement planning
-- cFIREsim - Monte Carlo retirement simulation
+- Empower (formerly Personal Capital) - Free wealth tracking and retirement planner
+- YNAB (You Need a Budget) - Best-in-class budgeting app ($14/month or free for students)
+- Copilot - Modern budgeting app (Mac/iOS)
+- FIRECalc (firecalc.com) - Retirement planning based on historical market data
+- cFIREsim (cfiresim.com) - Monte Carlo retirement simulation
 
-## ⚠️ Important Disclaimers
+## 👤 Working With a Financial Planner
 
-This guide is for educational purposes only and not professional financial advice. Consider consulting with:
-- Certified Financial Planner (CFP)
-- Tax Professional (CPA)
-- Estate Planning Attorney
+This guide is a starting point, not a substitute for professional advice. A **fee-only Certified Financial Planner (CFP)** provides things no guide can:
+
+- **Behavioral coaching** during market downturns — arguably the single highest-value service, since panic-selling is the #1 wealth destroyer
+- **Personalized tax strategy** (Roth conversions, capital gains harvesting, stock options)
+- **Blind-spot review** — insurance gaps, estate planning, scenarios you haven't considered
+- **Accountability** — someone who reviews your plan annually and keeps you honest
+
+Look for a *fee-only* CFP (paid by you, not by commissions). Good directories: NAPFA.org, Garrett Planning Network, XY Planning Network (good for younger clients).
+
+You don't need ongoing management for a simple index fund portfolio. But an annual or semi-annual check-in with a fee-only advisor is worth it as your wealth grows.
+
+Also consult:
+- **CPA / tax professional** — especially for Roth conversion planning, stock options, and business income
+- **Estate planning attorney** — as your assets grow, basic estate documents (will, powers of attorney, beneficiary designations) matter more than most people realize
 
 Markets fluctuate. Past performance doesn't guarantee future results. Adjust strategies based on life changes.
 
@@ -175,7 +183,7 @@ This guide is provided under the MIT License. Feel free to share and adapt for p
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** June 2026
 **Created by:** Retiree giving advice to younger self
 
 ---
