@@ -1,20 +1,40 @@
 # Investment Strategy Guide
 
-> Building a high-growth, low-cost portfolio for early retirement
+> Building a high-growth, low-cost portfolio for long-term wealth
 
 ## 🎯 Core Investment Philosophy
 
 ### The Three Pillars
 
 1. **Low-Cost Index Funds** - Minimize fees, maximize returns
-2. **Aggressive Allocation** - High stock exposure in your 20s-30s
+2. **Risk-Appropriate Allocation** - High stock exposure when you can genuinely tolerate the volatility
 3. **Buy and Hold** - Time in market > timing the market
+
+---
+
+## ⚠️ Before You Choose an Allocation: Know Your Real Risk Tolerance
+
+Every guide — including this one — will tell you to invest aggressively in your 20s and 30s. That advice is mathematically sound. But it only works if you actually *stay invested* when the market drops 35-40%.
+
+**Your stated risk tolerance and your actual risk tolerance are almost certainly different.**
+
+It's easy to say "I'm fine with volatility" when your portfolio is up. When you check your account and $80,000 has become $48,000 in six months — and every headline says it's getting worse — the emotional pull to sell is overwhelming for most people. Many investors locked in catastrophic losses in 2008-09 and 2020 by selling at the bottom and buying back near the top.
+
+**Ask yourself honestly:**
+- In a 40% market crash, would you continue your automatic contributions? Or would you pause them?
+- Would you check your portfolio daily? Weekly?
+- If a crash lasted 2-3 years (like 2000-2003 or 2007-2009), could you hold without selling?
+- Does watching your balance drop $50K in a month keep you up at night?
+
+**If the answer to any of those is uncertain:** Start slightly more conservative than the recommended allocation below. A 70/30 portfolio you stick with for 30 years will vastly outperform a 90/10 portfolio you panic-sell during the first major crash. The best portfolio is the most aggressive one *you can hold through a crisis*.
+
+You can always shift more aggressive as you build conviction — but you can't undo the damage of selling at the bottom.
 
 ---
 
 ## 📊 Asset Allocation by Age
 
-### Ages 25-35: 90/10 Portfolio
+### Ages 25-35: 90/10 Portfolio (if you can hold it)
 
 **90% Stocks / 10% Bonds**
 
@@ -26,11 +46,12 @@ Stock Allocation (90%):
 ```
 
 **Why This Allocation:**
-- Maximum growth potential
-- High risk tolerance + long time horizon = aggressive is smart
-- Stocks historically return 10% annually
-- Bonds provide minimal stability
-- Can weather market crashes (30+ years to recover)
+- Maximum growth potential with a 30+ year time horizon
+- The bond allocation is a behavioral cushion — it slightly reduces the gut-punch of a crash, which helps you stay the course
+- Stocks historically return ~10% annually over long periods
+- You have time to recover from crashes — but only if you don't sell
+
+**If 90/10 feels too aggressive**, start at 80/20 or even 70/30. A few percentage points less in stocks costs you relatively little over 30 years; panic-selling costs you everything.
 
 ### Ages 35-45: 80/20 Portfolio
 
@@ -106,8 +127,12 @@ Stock Allocation (60%):
 | Fund Type | Ticker | Expense Ratio | Min Investment |
 |-----------|--------|---------------|----------------|
 | US Total Market | FSKAX | 0.015% | $1 |
+| US Total Market (ZERO) | FZROX | **0.00%** | $1 |
 | International | FTIHX | 0.06% | $1 |
+| International (ZERO) | FZILX | **0.00%** | $1 |
 | Total Bond | FXNAX | 0.025% | $1 |
+
+**Note on Fidelity ZERO funds:** FZROX and FZILX have a 0% expense ratio, which is hard to beat. The tradeoff is they're proprietary funds that can only be held at Fidelity — if you ever transfer to another broker you'll need to sell them first. Great for long-term Fidelity customers; less portable than VTI/VXUS.
 
 **Fidelity Target Date Fund Alternative:**
 - FDEWX (Target 2055) - 0.12% expense ratio
@@ -242,11 +267,22 @@ Or: Invest new money entirely in VXUS and BND
 - Every 0.1% in fees costs you ~$100K in retirement
 
 ### ❌ Don't Panic Sell in Bear Markets
-- Market crashes are BUYING opportunities
-- Stocks are on sale
-- 2008 crash: -57%... then +400% recovery
-- 2020 COVID crash: -34%... then +120% recovery
-- Those who stayed in won big
+
+This is the single most important rule — and the hardest to follow.
+
+- 2008 crash: -57% peak to trough, took 2+ years. Those who sold locked in those losses. Those who held (or bought more) saw +400% recovery over the next decade.
+- 2020 COVID crash: -34% in 5 weeks. Those who sold near the bottom missed a +120% recovery over the next 18 months.
+- 2022 bear market: -25% on the S&P 500, -33% on the Nasdaq. Those who stayed invested recovered fully within 18 months.
+
+**The math of panic selling:**
+If you miss just the 10 best trading days over a 30-year period, your returns are cut roughly in half. Those best days almost always occur during or just after periods of peak fear — when you're most tempted to be out of the market.
+
+**How to survive a crash emotionally:**
+- Stop checking your balance daily. Monthly is enough; quarterly is fine.
+- Write down your investment plan *before* a crash. Commit to it in writing.
+- Automate contributions so they continue through downturns without a decision.
+- Remind yourself: a falling market means your automatic contributions are buying more shares at lower prices.
+- If you feel you *must* do something: rebalance (buy more of what's down), don't sell.
 
 ### ❌ Don't Over-Diversify
 - Owning 50 different funds isn't better
@@ -371,12 +407,12 @@ The Mega Backdoor Roth is a powerful strategy that allows you to contribute sign
 
 **The Math:**
 ```
-2026 Total 401(k) Limit:              $70,000
+2026 Total 401(k) Limit:              ~$70,000 (verify at IRS.gov)
 Your contribution (pre-tax):          -$23,500
 Employer match (3% on $80K):          -$2,400
-Remaining for after-tax:              $44,100
+Remaining for after-tax:              ~$44,100
 
-Potential Mega Backdoor Roth:         $44,100/year!
+Potential Mega Backdoor Roth:         ~$44,100/year!
 ```
 
 **Requirements (ALL must be met):**
@@ -409,7 +445,7 @@ Potential Mega Backdoor Roth:         $44,100/year!
 |----------|--------------|-------------|---------------|
 | Roth IRA | $7,000 | Tax-free growth | Yes ($150K-$165K phase-out) |
 | Roth 401(k) | $23,500 | Tax-free growth | No income limits |
-| **Mega Backdoor Roth** | **Up to $44,100** | **Tax-free growth** | **No income limits** |
+| **Mega Backdoor Roth** | **Up to ~$44,100** | **Tax-free growth** | **No income limits** |
 
 **Example Timeline:**
 ```
@@ -516,6 +552,28 @@ Amazon's 401(k) plan (through Fidelity) fully supports Mega Backdoor Roth with a
 ---
 
 **Remember:** The best investment strategy is the one you can stick with for 30 years. Keep it simple, keep it low-cost, and stay the course!
+
+---
+
+---
+
+## 👤 When to Work With a Financial Planner
+
+This guide gives you a solid framework for DIY investing. But a fee-only Certified Financial Planner (CFP) provides things a guide cannot:
+
+- **Behavioral coaching** — Someone to talk you off the ledge when you're about to panic-sell in a crash. Studies consistently show this alone is worth more than the advisory fee.
+- **Blind spots** — You don't know what you don't know. A planner finds the gaps: tax optimization you're missing, insurance you're over- or under-paying, estate planning you've neglected.
+- **Complex tax situations** — Stock options, Mega Backdoor Roth, Roth conversion ladders, capital gains harvesting — a CFP and CPA working together can save tens of thousands.
+- **Accountability** — Having someone review your plan annually keeps you on track.
+
+**Fee-only vs. fee-based vs. commission-based:**
+- **Fee-only CFP** — Paid directly by you (flat fee, hourly, or AUM). No conflicts of interest. *This is what you want.*
+- **Fee-based** — Charges fees AND earns commissions on products they sell. Conflicts of interest exist.
+- **Commission-based** — Earns money by selling you products. Avoid for investment planning.
+
+**You don't need a planner for everything.** A simple three-fund index portfolio at Vanguard or Fidelity is easy to manage yourself. Consider hiring a fee-only CFP for: initial plan setup, any major life change (marriage, divorce, inheritance, job change), and annual check-ins as your wealth grows.
+
+NAPFA.org and Garrett Planning Network are good directories for fee-only advisors.
 
 ---
 

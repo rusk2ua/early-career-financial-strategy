@@ -246,8 +246,10 @@ Social Security (age 62+):          Reduced benefit if taken early
 
 **Option 1: ACA Marketplace (Obamacare)**
 - Cost: $500-$1,200/month depending on income
-- Subsidies available if income is low
+- Subsidies available if income is below ~400% of federal poverty level (~$60K for single)
 - Strategy: Keep taxable income low to maximize subsidies
+- **Critical:** Roth IRA contributions and long-term capital gains at the 0% rate don't count as income for ACA subsidy purposes — this is a major tax advantage of the Roth and taxable brokerage approach
+- **Watch the subsidy cliff:** Going even $1 over the threshold can cost thousands in lost subsidies — plan withdrawals carefully
 
 **Option 2: COBRA (18 months max)**
 - Continue employer health insurance
@@ -259,18 +261,21 @@ Social Security (age 62+):          Reduced benefit if taken early
 - Usually cheapest option
 
 **Option 4: Health Sharing Ministry**
-- Not insurance, but cost-sharing program
-- $200-$400/month
-- Not ACA-compliant (may have gaps)
+- Not insurance, but a cost-sharing program among members
+- $200-$400/month — lower cost
+- **Significant risks:** Not ACA-compliant, not regulated as insurance, can deny claims, no legal obligation to pay, excludes pre-existing conditions, and programs have failed/dissolved before
+- Generally not recommended as a primary healthcare plan; consider only as a supplement or last resort
 
 ### Age 65+: Medicare
 
 **Much cheaper and better:**
-- Medicare Part A: Free (hospital)
-- Medicare Part B: $174/month (doctor)
-- Medicare Part D: $30-$50/month (drugs)
-- Medigap: $150-$300/month (fills gaps)
-- **Total: ~$350-500/month** vs $800-1200 before 65
+- Medicare Part A: Free (hospital, if you have 40+ quarters of work history)
+- Medicare Part B: ~$185/month (doctor — adjusts annually, higher if income exceeds $106K)
+- Medicare Part D: $30-$60/month (drugs)
+- Medigap (Supplement): $150-$300/month (fills gaps)
+- **Total: ~$365-545/month** vs $800-1,200 before 65
+
+*Note: High earners pay IRMAA surcharges on Medicare Parts B and D. At $150K+ income, monthly Part B premium can exceed $400. This is another reason to manage taxable income carefully in retirement.*
 
 ---
 
@@ -312,13 +317,13 @@ Target balances by 55:
 - TOTAL: $1.55M
 ```
 
-### Age 55: Launch Early Retirement! 🚀
+### Age 55: Retire on your terms 🚀
 ```
 Action:
 - Leave job (activate Rule of 55)
 - Enroll in ACA healthcare
 - Begin strategic withdrawals
-- Celebrate financial independence!
+- You've done it — financial freedom through decades of discipline
 ```
 
 ---
@@ -335,10 +340,12 @@ Action:
 - Even if it's January of that year
 - Maximize Rule of 55 access
 
-### 3. Optimize Tax Brackets
-- Keep income low to minimize ACA premiums
-- Use capital gains instead of income when possible
-- Only take what you need from tax-deferred accounts
+### 3. Optimize Tax Brackets and ACA Subsidies
+- Keep *taxable income* low to minimize ACA premiums and maximize subsidies
+- Roth withdrawals (contributions) are tax-free and don't count as income — invaluable here
+- Long-term capital gains at the 0% rate (income under ~$48K single) also don't push you over the subsidy cliff
+- Only take what you need from tax-deferred accounts — every extra dollar withdrawn is both taxable income and a hit to your ACA subsidy
+- Consider doing Roth conversions in the 12% bracket during low-income early retirement years to reduce future RMDs
 
 ### 4. Build Healthcare Fund Separately
 - $50K in cash/bonds by age 55

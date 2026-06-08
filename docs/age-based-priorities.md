@@ -125,11 +125,11 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 - Can access 401(k) penalty-free (unlike IRA which requires 59½)
 - Critical for early retirement strategy
 
-**4. Catch-Up Contributions**
-- At age 50+: Can add $7,500 MORE to 401(k)
-- Total: $31,000/year to 401(k)
+**4. Catch-Up Contributions (SECURE 2.0 Act)**
+- At age 50+: Can add $7,500 MORE to 401(k) → Total: $31,000/year
+- At ages 60-63: **Super catch-up of $11,250** (not just $7,500) → Total: $34,750/year
 - Roth IRA: Only $8,000/year at 50+
-- **401(k) allows 3.8x more savings**
+- **401(k) allows 3.8x-4.3x more savings** in your 60s
 
 **5. Roth Conversions Later**
 - In early retirement (55-59), you'll have low/no income
@@ -144,9 +144,12 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 | Account | Annual | 10 Years Total | Age 55 Value (7%) |
 |---------|--------|----------------|-------------------|
 | 401(k) max | $23,500 | $235,000 | $338,500 |
-| 401(k) catch-up (50+) | +$7,500 | +$37,500 | +$55,000 |
+| 401(k) catch-up (50-59) | +$7,500 | +$37,500 | +$55,000 |
+| 401(k) super catch-up (60-63) | +$11,250/yr | +$45,000 (4 yrs) | +$65,000 |
 | Roth IRA | $7,000 | $70,000 | $101,000 |
-| **Total** | **$38,000** | **$342,500** | **$493,500** |
+| **Total** | **$38,000-$42,750** | **$342,500+** | **$493,500+** |
+
+*Super catch-up applies only at ages 60-63 — use this window aggressively in your final sprint.*
 
 Plus your existing savings from ages 25-45!
 
@@ -211,16 +214,28 @@ Monthly (assume $130K income):
 Annual Total: $39,000/year (30% savings rate)
 ```
 
-### Age 50+:
+### Age 50-59:
 ```
 Monthly (assume $140K income):
 - 401(k): $2,583 (max $31K with catch-up)
 - Roth IRA: $667 (max $8K with catch-up)
 - Taxable: $800
-- HSA: $333 (if eligible)
-- Total: $4,342/month saved
+- HSA: $367 (if eligible, ~$4,400/year)
+- Total: $4,417/month saved
 
-Annual Total: $52,500/year (38% savings rate)
+Annual Total: $53,000/year (38% savings rate)
+```
+
+### Age 60-63 (Super Catch-Up Window):
+```
+Monthly (assume $145K income):
+- 401(k): $2,896 (max $34,750 with super catch-up)
+- Roth IRA: $667 (max $8K)
+- Taxable: $800
+- HSA: $367 (if eligible)
+- Total: $4,730/month saved
+
+Annual Total: $56,750/year — use this window aggressively!
 ```
 
 ---
@@ -245,8 +260,9 @@ Annual Total: $52,500/year (38% savings rate)
 - 💪 **401(k) is your powerhouse**
 - Time to sprint to the finish line
 - Maximize all tax-advantaged space
-- Use catch-up contributions aggressively
+- Use catch-up contributions aggressively (and super catch-up at 60-63)
 - Build early retirement bridge money
+- Begin Roth conversions in your low-income early retirement years to manage future RMDs
 - **Action:** Max 401(k) first, then Roth, then taxable
 
 ---
@@ -273,14 +289,16 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 ### Roth IRA Income Phase-Out Limits (2026)
 
 **If you're single:**
-- Full contribution allowed: Under $150,000
-- Partial contribution: $150,000-$165,000
-- No direct contribution: Over $165,000
+- Full contribution allowed: Under $165,000
+- Partial contribution: $165,000-$180,000
+- No direct contribution: Over $180,000
 
 **If you're married filing jointly:**
-- Full contribution allowed: Under $236,000
-- Partial contribution: $236,000-$246,000
-- No direct contribution: Over $246,000
+- Full contribution allowed: Under $246,000
+- Partial contribution: $246,000-$261,000
+- No direct contribution: Over $261,000
+
+*These limits adjust annually for inflation — always verify at IRS.gov before contributing.*
 
 ### What to Do if You Exceed Income Limits
 
@@ -320,6 +338,48 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 
 ---
 
+---
+
+## 🔄 The Balance-Aware Approach: Why Your Existing Accounts Matter
+
+The age-based rules above are a solid starting point, but a smarter approach also considers your **existing account balances** — not just your current tax rate.
+
+### The RMD Problem with Large Traditional Balances
+
+If you accumulate a very large traditional 401(k)/IRA balance, you'll face **Required Minimum Distributions (RMDs) starting at age 73**. RMDs are calculated as a percentage of your account and increase each year. A $2M traditional IRA at 73 forces withdrawals of ~$77,000/year — and those withdrawals are fully taxable as ordinary income. Stack that on top of Social Security, and you can easily land in the 22-24% bracket when you expected to be in 12%.
+
+**The key insight:** Your optimal Roth vs. traditional split depends not just on your current tax rate, but on what your *projected retirement tax rate* will be, which is driven by your future account balances.
+
+### Practical Framework: "Fill the Bracket"
+
+The goal is to arrive at retirement with enough in *each* bucket so you can control your taxable income year to year:
+
+| Your Situation | Lean Toward |
+|----------------|-------------|
+| Just starting out, large traditional balance from past jobs | Roth — you're already building the traditional side |
+| All Roth so far, no traditional balance | Consider some traditional 401(k) for tax diversification |
+| On track for $1M+ in traditional accounts by retirement | More Roth now to avoid RMD-driven bracket creep |
+| Moderate traditional balance, income peaking | Traditional — you'll likely have low-income years to convert later |
+| Expecting large taxable Social Security + pension | Roth — you need the tax-free bucket to manage income |
+
+### Why Early Career Is Different (But Not As Simple as "Always Roth")
+
+At $80K income you're in the 22% federal bracket. If you retire at 55 with most money in traditional accounts, and you're drawing $60K/year, your effective rate may only be 10-13%. In that case, the conventional advice ("pay 22% now via Roth vs 12% later via traditional") actually favors traditional, not Roth.
+
+**But there are strong reasons to favor Roth early anyway:**
+1. Your traditional balance is small — RMDs won't be a problem if you don't over-accumulate there
+2. Roth contributions give you penalty-free early access (critical for the age 55-59 bridge)
+3. Tax-free withdrawals don't count as income, preserving ACA subsidies in early retirement
+4. Tax rates could increase — Roth locks in today's rate
+
+**The balanced conclusion:**
+- Prioritize Roth IRA in your 20s-30s **and** get 401(k) matching
+- Also contribute some to traditional 401(k) beyond the match — don't put 100% into Roth
+- Keep watch on your growing traditional balance; once it's on track to exceed ~$600K-$800K by retirement, lean harder toward Roth
+- Plan Roth conversions during your low-income early retirement years (55-60) to gradually shift the balance
+
+---
+
 ## 🚫 Common Mistakes to Avoid
 
 ### ❌ Mistake 1: "I'll max 401(k) first because bigger is better"
@@ -345,8 +405,15 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 
 ### ❌ Mistake 5: "I make too much for Roth IRA anymore"
 - You can still do Backdoor Roth IRA at ANY income
-- If employer allows, Mega Backdoor Roth lets you save $44K+ more
+- If employer allows, Mega Backdoor Roth lets you save $46K+ more
 - Don't leave tax-free growth on the table!
+
+### ❌ Mistake 6: Ignoring your existing balance mix
+- The right Roth vs. traditional split depends on what you've already accumulated
+- A large existing traditional balance = lean harder toward Roth contributions now
+- A large existing Roth balance = traditional contributions provide tax diversification
+- Re-evaluate your strategy every 3-5 years as balances grow
+- See the Balance-Aware section above for guidance
 
 ---
 
@@ -357,7 +424,7 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 **Age 45-55:** 401(k) > ROTH IRA (but still do both!)
 
 **At your current age (~25):**
-### MAX THAT ROTH IRA EVERY YEAR!
+### Max the Roth IRA every year — and build the habit now
 
 Your 55-year-old self will thank you for having hundreds of thousands in tax-free money that you can access penalty-free for early retirement.
 
