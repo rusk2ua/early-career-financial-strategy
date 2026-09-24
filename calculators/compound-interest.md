@@ -2,21 +2,25 @@
 
 > See how your money grows over time
 
+*All figures assume a fixed annual contribution made at the end of each year and a constant annual return. Returns are **nominal** (before inflation). To see results in today's dollars, subtract ~3% from the return. For example, use 5% instead of 8%.*
+
+*The tables use $7,000/year, which was the Roth IRA limit through 2025. The 2026 limit is **$7,500**, so scale these results up by about 7%.*
+
 ## 📊 Quick Reference Tables
 
-### $7,000 Annual Contribution (Roth IRA Max)
+### $7,000 Annual Contribution
 
 | Years | 6% Return | 7% Return | 8% Return | 10% Return |
 |-------|-----------|-----------|-----------|------------|
-| 5 | $39,542 | $40,255 | $41,006 | $42,539 |
-| 10 | $92,164 | $96,715 | $101,518 | $111,874 |
-| 15 | $163,314 | $174,773 | $187,297 | $217,722 |
-| 20 | $256,882 | $280,918 | $308,219 | $381,950 |
-| 25 | $376,926 | $422,714 | $476,094 | $663,271 |
-| 30 | $528,751 | $664,388 | $792,960 | $1,231,393 |
-| 35 | $718,093 | $966,071 | $1,296,408 | $2,171,073 |
+| 5 | $39,460 | $40,255 | $41,066 | $42,736 |
+| 10 | $92,266 | $96,715 | $101,406 | $111,562 |
+| 15 | $162,932 | $175,903 | $190,065 | $222,407 |
+| 20 | $257,499 | $286,968 | $320,334 | $400,925 |
+| 25 | $384,052 | $442,743 | $511,742 | $688,429 |
+| 30 | $553,407 | $661,226 | $792,982 | $1,151,458 |
+| 35 | $780,043 | $967,658 | $1,206,218 | $1,897,171 |
 
-**Key insight:** Starting at 25 vs 35 = $500K+ difference!
+**Key insight:** 35 years of investing instead of 25 is worth $500K-$700K more, depending on returns.
 
 ---
 
@@ -24,16 +28,16 @@
 
 | Years | 6% Return | 7% Return | 8% Return | 10% Return |
 |-------|-----------|-----------|-----------|------------|
-| 5 | $135,614 | $137,874 | $140,592 | $145,848 |
-| 10 | $315,849 | $331,449 | $347,893 | $383,424 |
-| 15 | $559,648 | $598,931 | $641,591 | $746,189 |
-| 20 | $880,587 | $962,359 | $1,055,465 | $1,309,432 |
-| 25 | $1,292,318 | $1,448,730 | $1,631,035 | $2,273,501 |
-| 30 | $1,812,860 | $2,277,046 | $2,515,301 | $4,221,492 |
+| 5 | $135,290 | $138,018 | $140,798 | $146,522 |
+| 10 | $316,339 | $331,595 | $347,677 | $382,498 |
+| 15 | $558,623 | $603,097 | $651,651 | $762,540 |
+| 20 | $882,854 | $983,892 | $1,098,287 | $1,374,600 |
+| 25 | $1,316,748 | $1,517,977 | $1,754,543 | $2,360,329 |
+| 30 | $1,897,396 | $2,267,059 | $2,718,797 | $3,947,857 |
 
 **Path to $250K:**
-- At 8% return: **8.5 years** (by age ~33)
-- At 10% return: **7.8 years** (by age ~32)
+- At 8% return: **~7.9 years** (by age ~33)
+- At 10% return: **~7.5 years** (by age ~32-33)
 
 ---
 
@@ -61,7 +65,7 @@ FV = 7,000 × [(1.08)^30 - 1] / 0.08
 FV = 7,000 × [10.0627 - 1] / 0.08
 FV = 7,000 × 9.0627 / 0.08
 FV = 7,000 × 113.28
-FV = $792,960
+FV = $792,982
 ```
 
 ---
@@ -74,16 +78,16 @@ FV = $792,960
 
 | Start Age | Years Investing | Total Contributed | Final Value | Gain |
 |-----------|----------------|-------------------|-------------|------|
-| 25 | 35 years | $245,000 | **$1,296,408** | $1,051,408 |
-| 30 | 30 years | $210,000 | **$792,960** | $582,960 |
-| 35 | 25 years | $175,000 | **$511,807** | $336,807 |
-| 40 | 20 years | $140,000 | **$320,714** | $180,714 |
-| 45 | 15 years | $105,000 | **$195,017** | $90,017 |
+| 25 | 35 years | $245,000 | **$1,206,218** | $961,218 |
+| 30 | 30 years | $210,000 | **$792,982** | $582,982 |
+| 35 | 25 years | $175,000 | **$511,742** | $336,742 |
+| 40 | 20 years | $140,000 | **$320,334** | $180,334 |
+| 45 | 15 years | $105,000 | **$190,065** | $85,065 |
 
 **Starting at 25 vs 35:**
 - Extra invested: $70,000
-- Extra gained: **$784,601**
-- Return ratio: **11.2x your additional investment!**
+- Extra ending value: **$694,476**
+- That's **~9.9x your additional investment!**
 
 This is why TIME is your greatest asset!
 
@@ -97,14 +101,14 @@ This is why TIME is your greatest asset!
 
 | Return | 30-Year Value | Difference from 7% |
 |--------|---------------|-------------------|
-| 6% | $528,751 | -$135,637 |
-| 7% | $664,388 | baseline |
-| 8% | $792,960 | +$128,572 |
-| 9% | $953,547 | +$289,159 |
-| 10% | $1,149,072 | +$484,684 |
+| 6% | $553,407 | -$107,819 |
+| 7% | $661,226 | baseline |
+| 8% | $792,982 | +$131,756 |
+| 9% | $954,153 | +$292,927 |
+| 10% | $1,151,458 | +$490,232 |
 
 **Key insight:** 
-- 6% vs 8% = $264K difference
+- 6% vs 8% = ~$240K difference
 - This is why low-fee index funds matter!
 - A 1% higher fee = ~$130K less retirement money
 
@@ -116,21 +120,23 @@ This is why TIME is your greatest asset!
 
 | Fee | Net Return | Final Value | Cost vs 0.04% |
 |-----|-----------|-------------|---------------|
-| 0.04% | 7.96% | $787,386 | $0 (baseline) |
-| 0.25% | 7.75% | $754,012 | -$33,374 |
-| 0.50% | 7.50% | $720,489 | -$66,897 |
-| 1.00% | 7.00% | $664,388 | -$122,998 |
-| 1.50% | 6.50% | $610,438 | -$176,948 |
+| 0.04% | 7.96% | $787,188 | $0 (baseline) |
+| 0.25% | 7.75% | $757,519 | -$29,669 |
+| 0.50% | 7.50% | $723,796 | -$63,392 |
+| 1.00% | 7.00% | $661,226 | -$125,962 |
+| 1.50% | 6.50% | $604,624 | -$182,564 |
 
-**Fees of 1% cost you $123K over 30 years!**
+**A 1% fee costs you ~$126K over 30 years!**
 
 This is why we recommend:
-- Vanguard index funds: 0.03-0.04% fees
+- Broad index funds: 0.00-0.05% fees
 - Avoid actively managed funds: 1%+ fees
 
 ---
 
 ## 🎯 Your Personal Scenarios
+
+*Values are nominal. In today's dollars (assuming ~3% inflation), each result is worth roughly 55-60% as much.*
 
 ### Scenario 1: Conservative Path
 ```
@@ -139,8 +145,8 @@ Annual savings: $15,000 ($7K Roth + $8K 401k)
 Return: 7%
 Years: 30
 
-Result at 55: $1,424,540
-Monthly income at 4% withdrawal: $4,748
+Result at 55: $1,416,912
+Monthly income at 4% withdrawal: $4,723
 ```
 
 ### Scenario 2: Moderate Path (Recommended)
@@ -150,8 +156,8 @@ Annual savings: $24,000 ($7K Roth + $12K 401k + $5K taxable)
 Return: 8%
 Years: 30
 
-Result at 55: $2,515,301
-Monthly income at 4% withdrawal: $8,384
+Result at 55: $2,718,797
+Monthly income at 4% withdrawal: $9,063
 ```
 
 ### Scenario 3: Aggressive Path
@@ -161,8 +167,8 @@ Annual savings: $35,000 ($7K Roth + $23K 401k + $5K taxable)
 Return: 9%
 Years: 30
 
-Result at 55: $4,395,449
-Monthly income at 4% withdrawal: $14,651
+Result at 55: $4,770,764
+Monthly income at 4% withdrawal: $15,903
 ```
 
 ---
@@ -173,8 +179,8 @@ Monthly income at 4% withdrawal: $14,651
 
 **$7,000/year at 8%:**
 - Year 1: $7,000
-- Year 5: $41,006
-- Year 10: $101,518 ✓ **Hit 6 figures!**
+- Year 5: $41,066
+- Year 10: $101,406 ✓ **Hit 6 figures!**
 
 **Why first $100K matters:**
 - Hardest milestone psychologically
@@ -184,43 +190,40 @@ Monthly income at 4% withdrawal: $14,651
 ### Path to First $250K
 
 **$24,000/year at 8%:**
-- Year 5: $140,592
-- Year 8: $251,442 ✓ **Quarter million!**
-- Year 9: $295,757
+- Year 5: $140,798
+- Year 8: $255,279 ✓ **Quarter million!**
+- Year 9: $299,701
 
 **At this point:**
 - You're earning ~$20K/year in growth alone
-- Market gains now contribute as much as your contributions
+- Market gains now contribute almost as much as your contributions
 - The snowball is rolling!
 
 ### Path to $1 Million
 
 **$24,000/year at 8%:**
-- Year 15: $641,591
-- Year 20: $1,055,465 ✓ **Millionaire!**
-- Year 25: $1,631,035
+- Year 15: $651,651
+- Year 20: $1,098,287 ✓ **Millionaire!**
+- Year 25: $1,754,543
 
 ---
 
-## 🔄 Monthly vs Annual Contributions
+## 🔄 When During the Year Should You Invest?
 
-### Impact of Monthly Investing
+**$7,000/year for 30 years at 8%:**
 
-**$7,000/year = $583/month**
-
-| Method | 30-Year Value (8%) |
+| Method | 30-Year Value |
 |--------|-------------------|
-| Lump sum (Jan 1) | $792,960 |
-| Monthly ($583) | $818,473 |
-| **Difference** | **+$25,513** |
+| Lump sum on Jan 1 | $856,421 |
+| Monthly ($583/month) | $821,185 |
+| Lump sum on Dec 31 | $792,982 |
 
-**Why monthly is better:**
-- Dollar-cost averaging
-- Buys more shares when price is low
-- Psychological benefit (easier to automate)
-- Reduces market timing risk
+**What this shows:**
+- **Money invested earlier has more time to grow.** Investing the full amount on January 1 comes out ahead, on average, because markets rise more often than they fall.
+- Monthly contributions beat waiting until year-end by ~$28K.
+- Most people save from each paycheck, so **automatic monthly contributions** are the realistic choice. They build the habit, and dollar-cost averaging makes a bad month easier to live with emotionally.
 
-**Recommendation:** Set up automatic monthly transfers!
+**Recommendation:** If you have the cash on hand on January 1, invest it then. Otherwise, set up automatic monthly transfers.
 
 ---
 
@@ -230,9 +233,9 @@ Monthly income at 4% withdrawal: $14,651
 
 | Strategy | Final Value (30 years, 8%) |
 |----------|---------------------------|
-| Flat $7K/year | $792,960 |
-| Increase $1K/year | $1,487,263 |
-| **Difference** | **+$694,303** |
+| Flat $7K/year | $792,982 |
+| Increase $1K/year | $1,834,023 |
+| **Difference** | **+$1,041,041** |
 
 **Key insight:** Even small increases compound massively!
 
@@ -306,7 +309,7 @@ Examples:
    - First $1M
 
 3. **Track monthly**
-   - Use spreadsheet or Personal Capital
+   - Use spreadsheet or Empower
    - Celebrate milestones
    - Adjust as needed
 

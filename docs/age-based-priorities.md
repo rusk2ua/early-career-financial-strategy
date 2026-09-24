@@ -21,8 +21,8 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 #### Priority Order:
 1. ✅ **401(k) to company match** (6% = $4,800 + $2,400 match)
-2. ✅ **MAX OUT Roth IRA** ($7,000/year)
-3. ✅ **Then increase 401(k)** toward max ($23,500 limit)
+2. ✅ **MAX OUT Roth IRA** ($7,500/year in 2026)
+3. ✅ **Then increase 401(k)** toward max ($24,500 limit in 2026)
 4. ✅ **Taxable brokerage** if you still have room
 
 #### Why Roth IRA First at This Age:
@@ -31,9 +31,9 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 - Your money compounds tax-free forever
 - Math example: $7K/year in Roth from age 25-35 (just 10 years)
   - Total invested: $70,000
-  - Value at age 60: **$470,000** tax-free (at 7% growth)
-  - If in 401(k) taxed at 22%: $470K → $367K net
-  - **You saved $103K in taxes!**
+  - Value at age 60: **~$525,000** tax-free (at 7% growth)
+  - Same dollars in a traditional 401(k), taxed at 22% on withdrawal: $525K → ~$409K net
+  - **~$115K difference.** See the caveat under the table below.
 
 **2. Maximum Flexibility**
 - Can withdraw contributions penalty-free anytime
@@ -49,11 +49,11 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 **4. Income Eligibility**
 - At $80K single, you're well within limits
-- Phase-out starts at $146K single, $230K married
+- Phase-out starts at $153K single, $242K married (2026)
 - Take advantage while you still can!
 
 **5. Compound Interest Superpower**
-- Starting at 25 vs 35 = ~$300K difference by age 60
+- Starting at 25 vs 35 = ~$525K difference by age 60 (at 7%)
 - Every year matters exponentially
 - Time is your greatest asset
 
@@ -63,9 +63,11 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 |----------|------------------|----------------------|
 | Annual contribution | $7,000 | $7,000 |
 | Total invested | $70,000 | $70,000 |
-| Value at 60 (7%) | $470,000 | $470,000 |
-| **After tax** | **$470,000** | **$367,000** (22% tax) |
-| **Tax savings** | **$103,000** | $0 |
+| Value at 60 (7%) | $525,000 | $525,000 |
+| **After tax** | **$525,000** | **$409,000** (22% tax) |
+| **Difference** | **+$116,000** | — |
+
+*Caveat: This table compares **equal dollar contributions**. A traditional contribution also saves you 22% in taxes today. If you invested those savings too, Roth and traditional come out **exactly even** when your tax rate is the same now and in retirement. Roth comes out ahead when your retirement tax rate is **higher** than today's, and traditional wins when it's **lower**. Early in your career, Roth usually wins for the practical reasons listed above (flexibility, no RMDs, tax diversification), not because of this arithmetic. See [The Balance-Aware Approach](#-the-balance-aware-approach-why-your-existing-accounts-matter) below.*
 
 ---
 
@@ -73,7 +75,7 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 #### Priority Order:
 1. ✅ **401(k) to company match** (always #1)
-2. ✅ **MAX OUT Roth IRA** ($7,000/year) - still prioritize
+2. ✅ **MAX OUT Roth IRA** ($7,500/year) - still prioritize
 3. ✅ **Increase 401(k) substantially** (aim for $15-20K/year)
 4. ✅ **Taxable brokerage** for surplus
 
@@ -88,11 +90,11 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 **But 401(k) Becomes More Important Because:**
 - You're in prime earning years (hopefully higher income)
 - Pre-tax savings reduces current tax burden
-- Larger contribution limits ($23K vs $7K)
+- Larger contribution limits ($24.5K vs $7.5K)
 - Need to accelerate wealth building with less time
 
 #### Recommended Split:
-- **$7,000** → Roth IRA (max it out)
+- **$7,500** → Roth IRA (max it out)
 - **$15,000-20,000** → 401(k) (total, including match)
 - **$3,000-5,000** → Taxable brokerage (if possible)
 - **Total: $25,000-32,000/year**
@@ -103,7 +105,7 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 #### Priority Order:
 1. ✅ **401(k) to company match** (always)
-2. ✅ **MAX OUT 401(k)** ($23,500/year, or $31,000 with catch-up at 50+)
+2. ✅ **MAX OUT 401(k)** ($24,500/year, or $32,500 with catch-up at 50+)
 3. ✅ **Then MAX Roth IRA** (still do it, but after 401k)
 4. ✅ **Health Savings Account (HSA)** if available
 5. ✅ **Taxable brokerage** for early retirement bridge
@@ -126,10 +128,11 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 - Critical for early retirement strategy
 
 **4. Catch-Up Contributions (SECURE 2.0 Act)**
-- At age 50+: Can add $7,500 MORE to 401(k) → Total: $31,000/year
-- At ages 60-63: **Super catch-up of $11,250** (not just $7,500) → Total: $34,750/year
-- Roth IRA: Only $8,000/year at 50+
-- **401(k) allows 3.8x-4.3x more savings** in your 60s
+- At age 50+: Can add $8,000 MORE to 401(k) → Total: $32,500/year (2026)
+- At ages 60-63: **Super catch-up of $11,250** (instead of $8,000) → Total: $35,750/year
+- Roth IRA: Only $8,600/year at 50+ ($7,500 + $1,100 catch-up)
+- **401(k) allows 3.8x-4.2x more savings** than an IRA at these ages
+- **New in 2026 — Roth catch-up rule:** If your FICA wages from that employer were over $150,000 last year, your catch-up contributions *must* go into the Roth 401(k). Your regular $24,500 can still be pre-tax. If you'll be in this group, confirm your plan offers a Roth option.
 
 **5. Roth Conversions Later**
 - In early retirement (55-59), you'll have low/no income
@@ -143,13 +146,12 @@ This is an instant 50% return (in your case) that nothing else can beat. This is
 
 | Account | Annual | 10 Years Total | Age 55 Value (7%) |
 |---------|--------|----------------|-------------------|
-| 401(k) max | $23,500 | $235,000 | $338,500 |
-| 401(k) catch-up (50-59) | +$7,500 | +$37,500 | +$55,000 |
-| 401(k) super catch-up (60-63) | +$11,250/yr | +$45,000 (4 yrs) | +$65,000 |
-| Roth IRA | $7,000 | $70,000 | $101,000 |
-| **Total** | **$38,000-$42,750** | **$342,500+** | **$493,500+** |
+| 401(k) max | $24,500 | $245,000 | $338,500 |
+| 401(k) catch-up (ages 50-54) | +$8,000 | +$40,000 (5 yrs) | +$46,000 |
+| Roth IRA | $7,500 | $75,000 | $103,600 |
+| **Total** | **$32,000-$40,000** | **$360,000** | **~$488,000** |
 
-*Super catch-up applies only at ages 60-63 — use this window aggressively in your final sprint.*
+*2026 limits, held flat for simplicity (limits actually rise with inflation). If you keep working past 60, the super catch-up at ages 60-63 adds up to $11,250/year. Use that window aggressively.*
 
 Plus your existing savings from ages 25-45!
 
@@ -161,81 +163,82 @@ Plus your existing savings from ages 25-45!
 ```
 Monthly:
 - 401(k): $400 (6%) + $200 match = $600
-- Roth IRA: $583
+- Roth IRA: $625
 - Additional 401(k): $300-400 (to reach 15%)
-- Total: $1,483-1,583/month saved
+- Total: $1,525-1,625/month saved
 
-Annual Total: $17,800-19,000/year (22-24% savings rate)
+Annual Total: $18,300-19,500/year (23-24% savings rate)
 ```
 
 ### Age 30:
 ```
 Monthly (assume $90K income):
 - 401(k): $450 (6%) + $225 match = $675
-- Roth IRA: $583 (max)
+- Roth IRA: $625 (max)
 - Additional 401(k): $600 (to reach 18% total)
 - Taxable: $200
-- Total: $2,058/month saved
+- Total: $2,100/month saved
 
-Annual Total: $24,700/year (27% savings rate)
+Annual Total: $25,200/year (28% savings rate)
 ```
 
 ### Age 35:
 ```
 Monthly (assume $105K income):
 - 401(k): $525 (6%) + $263 match = $788
-- Roth IRA: $583 (max)
+- Roth IRA: $625 (max)
 - Additional 401(k): $700 (to reach 19% total)
 - Taxable: $350
-- Total: $2,421/month saved
+- Total: $2,463/month saved
 
-Annual Total: $29,050/year (28% savings rate)
+Annual Total: $29,550/year (28% savings rate)
 ```
 
 ### Age 40:
 ```
 Monthly (assume $120K income):
 - 401(k): $1,500 (15% total with match)
-- Roth IRA: $583 (still max!)
+- Roth IRA: $625 (still max!)
 - Taxable: $500
-- Total: $2,583/month saved
+- Total: $2,625/month saved
 
-Annual Total: $31,000/year (26% savings rate)
+Annual Total: $31,500/year (26% savings rate)
 ```
 
 ### Age 45:
 ```
 Monthly (assume $130K income):
-- 401(k): $1,958 (max $23.5K/year)
-- Roth IRA: $583 (max)
+- 401(k): $2,042 (max $24.5K/year)
+- Roth IRA: $625 (max)
 - Taxable: $750
-- Total: $3,250/month saved
+- Total: $3,417/month saved
 
-Annual Total: $39,000/year (30% savings rate)
+Annual Total: $41,000/year (32% savings rate)
 ```
 
 ### Age 50-59:
 ```
 Monthly (assume $140K income):
-- 401(k): $2,583 (max $31K with catch-up)
-- Roth IRA: $667 (max $8K with catch-up)
+- 401(k): $2,708 (max $32.5K with catch-up)
+- Roth IRA: $717 (max $8.6K with catch-up)
 - Taxable: $800
-- HSA: $367 (if eligible, ~$4,400/year)
-- Total: $4,417/month saved
+- HSA: $367 (if eligible, $4,400/year self-only)
+- Total: $4,592/month saved
 
-Annual Total: $53,000/year (38% savings rate)
+Annual Total: $55,100/year (39% savings rate)
+(If last year's wages topped $150K, the $8K catch-up must go to Roth 401(k))
 ```
 
 ### Age 60-63 (Super Catch-Up Window):
 ```
 Monthly (assume $145K income):
-- 401(k): $2,896 (max $34,750 with super catch-up)
-- Roth IRA: $667 (max $8K)
+- 401(k): $2,979 (max $35,750 with super catch-up)
+- Roth IRA: $717 (max $8.6K)
 - Taxable: $800
 - HSA: $367 (if eligible)
-- Total: $4,730/month saved
+- Total: $4,863/month saved
 
-Annual Total: $56,750/year — use this window aggressively!
+Annual Total: $58,350/year — use this window aggressively!
 ```
 
 ---
@@ -273,12 +276,12 @@ Annual Total: $56,750/year — use this window aggressively!
 
 | Start Age | Annual Amount | Years Invested | Age 60 Value (7%) |
 |-----------|---------------|----------------|-------------------|
-| **25** | $7,000 | 35 years | **$966,000** |
-| 30 | $7,000 | 30 years | $665,000 |
-| 35 | $7,000 | 25 years | $438,000 |
-| 40 | $7,000 | 20 years | $279,000 |
+| **25** | $7,000 | 35 years | **$968,000** |
+| 30 | $7,000 | 30 years | $661,000 |
+| 35 | $7,000 | 25 years | $443,000 |
+| 40 | $7,000 | 20 years | $287,000 |
 
-**Starting at 25 vs 35 = $528,000 difference!**
+**Starting at 25 vs 35 = ~$525,000 difference!** (At the 2026 limit of $7,500/year, every figure is ~7% higher.)
 
 Every year you wait costs you exponentially. This is why Roth IRA priority in your 20s is so critical - you can never get that time back.
 
@@ -289,14 +292,14 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 ### Roth IRA Income Phase-Out Limits (2026)
 
 **If you're single:**
-- Full contribution allowed: Under $165,000
-- Partial contribution: $165,000-$180,000
-- No direct contribution: Over $180,000
+- Full contribution allowed: Under $153,000
+- Partial contribution: $153,000-$168,000
+- No direct contribution: Over $168,000
 
 **If you're married filing jointly:**
-- Full contribution allowed: Under $246,000
-- Partial contribution: $246,000-$261,000
-- No direct contribution: Over $261,000
+- Full contribution allowed: Under $242,000
+- Partial contribution: $242,000-$252,000
+- No direct contribution: Over $252,000
 
 *These limits adjust annually for inflation — always verify at IRS.gov before contributing.*
 
@@ -309,9 +312,9 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 - Works even if you earn $500K+
 
 **Option 2: Focus on 401(k) and Mega Backdoor Roth**
-- Max out 401(k) contributions ($23,500 in 2026)
+- Max out 401(k) contributions ($24,500 in 2026)
 - If your employer supports it, use **Mega Backdoor Roth** strategy
-- Can contribute up to $44,100 MORE to Roth through after-tax 401(k)
+- Can contribute up to ~$45,100 MORE to Roth through after-tax 401(k)
 - See [Investment Strategy Guide](./investment-strategy.md#mega-backdoor-roth-advanced-strategy-for-high-earners) for details
 
 **Known employers with Mega Backdoor Roth:**
@@ -319,24 +322,22 @@ Every year you wait costs you exponentially. This is why Roth IRA priority in yo
 - ✅ Major tech companies (Google, Microsoft, Meta, Apple)
 - Ask your HR: "Does our 401(k) allow after-tax contributions with in-service conversions?"
 
-### High Income Game Plan (Earning $150K+)
+### High Income Game Plan (Earning $153K+ single / $242K+ married)
 
 **Priority order when you exceed Roth IRA limits:**
 1. ✅ 401(k) to company match (always first)
-2. ✅ MAX OUT 401(k) ($23,500)
-3. ✅ Backdoor Roth IRA ($7,000 via conversion)
-4. ✅ Mega Backdoor Roth (up to $44,100 if employer allows)
-5. ✅ HSA if available ($4,300)
+2. ✅ MAX OUT 401(k) ($24,500)
+3. ✅ Backdoor Roth IRA ($7,500 via conversion)
+4. ✅ Mega Backdoor Roth (up to ~$45,100 if employer allows)
+5. ✅ HSA if available ($4,400 self / $8,750 family)
 6. ✅ Taxable brokerage for remaining savings
 
 **Annual potential at $200K income:**
-- 401(k): $23,500
-- Backdoor Roth: $7,000
-- Mega Backdoor Roth: $44,100
-- HSA: $4,300
-- **Total tax-advantaged: $78,900/year!**
-
----
+- 401(k): $24,500
+- Backdoor Roth: $7,500
+- Mega Backdoor Roth: ~$45,100 (less if your employer match is larger)
+- HSA: $4,400
+- **Total tax-advantaged: ~$81,500/year!**
 
 ---
 
@@ -346,7 +347,7 @@ The age-based rules above are a solid starting point, but a smarter approach als
 
 ### The RMD Problem with Large Traditional Balances
 
-If you accumulate a very large traditional 401(k)/IRA balance, you'll face **Required Minimum Distributions (RMDs) starting at age 73**. RMDs are calculated as a percentage of your account and increase each year. A $2M traditional IRA at 73 forces withdrawals of ~$77,000/year — and those withdrawals are fully taxable as ordinary income. Stack that on top of Social Security, and you can easily land in the 22-24% bracket when you expected to be in 12%.
+If you accumulate a very large traditional 401(k)/IRA balance, you'll face **Required Minimum Distributions (RMDs)**. Under SECURE 2.0, RMDs start at **age 75 for anyone born in 1960 or later**, which includes everyone early in their career today. (People born 1951-1959 start at 73.) RMDs are calculated as a percentage of your account and increase each year. A $2M traditional IRA at 75 forces withdrawals of ~$81,000/year — and those withdrawals are fully taxable as ordinary income. Stack that on top of Social Security, and you can easily land in the 22-24% bracket when you expected to be in 12%.
 
 **The key insight:** Your optimal Roth vs. traditional split depends not just on your current tax rate, but on what your *projected retirement tax rate* will be, which is driven by your future account balances.
 
@@ -370,13 +371,26 @@ At $80K income you're in the 22% federal bracket. If you retire at 55 with most 
 1. Your traditional balance is small — RMDs won't be a problem if you don't over-accumulate there
 2. Roth contributions give you penalty-free early access (critical for the age 55-59 bridge)
 3. Tax-free withdrawals don't count as income, preserving ACA subsidies in early retirement
-4. Tax rates could increase — Roth locks in today's rate
+4. Tax rates could increase. The 2025 tax law made today's brackets permanent, but "permanent" only lasts until Congress changes it, and federal deficits make future increases plausible. Roth locks in today's rate.
 
 **The balanced conclusion:**
 - Prioritize Roth IRA in your 20s-30s **and** get 401(k) matching
 - Also contribute some to traditional 401(k) beyond the match — don't put 100% into Roth
 - Keep watch on your growing traditional balance; once it's on track to exceed ~$600K-$800K by retirement, lean harder toward Roth
 - Plan Roth conversions during your low-income early retirement years (55-60) to gradually shift the balance
+
+---
+
+## 👶 If You Have (or Are Planning) Kids: Trump Accounts
+
+The 2025 tax law created **Trump Accounts**, a new tax-advantaged investment account for children. Contributions opened on July 4, 2026.
+
+- **$1,000 federal seed deposit** for U.S.-citizen children born January 1, 2025 through December 31, 2028
+- **Up to $5,000/year** in contributions from family or others (indexed for inflation after 2027)
+- **Employers can contribute up to $2,500/year** tax-free toward that $5,000. Ask HR whether yours offers this.
+- The money is invested in low-cost U.S. stock index funds and generally stays locked until the child turns 18. After that, it follows traditional IRA rules.
+
+**Where it fits in your priorities:** Claim the free $1,000 seed and any employer money. Beyond that, **don't fund your kids' accounts at the expense of your own retirement.** Your children can borrow for college, but nobody lends money for retirement. Get the 401(k) match and max your Roth IRA first. If you're saving specifically for college, compare a 529 plan, which gets tax-free withdrawals for education.
 
 ---
 
@@ -405,7 +419,7 @@ At $80K income you're in the 22% federal bracket. If you retire at 55 with most 
 
 ### ❌ Mistake 5: "I make too much for Roth IRA anymore"
 - You can still do Backdoor Roth IRA at ANY income
-- If employer allows, Mega Backdoor Roth lets you save $46K+ more
+- If employer allows, Mega Backdoor Roth lets you save ~$45K more
 - Don't leave tax-free growth on the table!
 
 ### ❌ Mistake 6: Ignoring your existing balance mix
@@ -432,10 +446,10 @@ Your 55-year-old self will thank you for having hundreds of thousands in tax-fre
 
 **Next Steps:**
 - Open Roth IRA this week
-- Set up automatic $583/month contribution
+- Set up automatic $625/month contribution
 - Invest in aggressive index fund portfolio
 - Don't touch it for 30 years
-- Watch it grow to $664K+ tax-free!
+- Watch it grow to ~$700K+ tax-free!
 
 ---
 
