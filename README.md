@@ -11,6 +11,21 @@
 - **Primary Goal:** Reach $250,000 as early as possible
 - **Retirement Target:** Age 55-60
 
+## 🗓️ 2026 Key Numbers (Quick Reference)
+
+| Item | 2026 Limit | Notes |
+|------|-----------|-------|
+| 401(k)/403(b) employee contribution | **$24,500** | Up from $23,500 in 2025 |
+| 401(k) catch-up (age 50+) | +$8,000 | Must go to Roth if your prior-year wages exceeded $150K |
+| 401(k) "super" catch-up (ages 60-63) | +$11,250 | SECURE 2.0 |
+| Total 401(k) (employee + employer + after-tax) | $72,000 | Sets the Mega Backdoor Roth ceiling |
+| IRA (Roth or traditional) | **$7,500** | +$1,100 catch-up at 50+ ($8,600 total) |
+| Roth IRA phase-out (single) | $153,000-$168,000 | Modified AGI |
+| Roth IRA phase-out (married filing jointly) | $242,000-$252,000 | Modified AGI |
+| HSA | $4,400 self / $8,750 family | +$1,000 at 55+ |
+
+*The IRS usually announces 2027 limits in late October or November. Early projections point to about $25,000-$25,500 for 401(k)s and $8,000 for IRAs, but these aren't official yet. Check [IRS.gov](https://www.irs.gov/retirement-plans) each fall and increase your automatic contributions in January.*
+
 ## 🎯 Quick Start: Top 5 Priorities
 
 ### 1️⃣ Maximize Company 401(k) Match + Go Beyond
@@ -21,26 +36,26 @@
 
 **Why it matters:**
 - Instant 50% return on match - unbeatable
-- $2,400 match grows to $86,400 over 30 years (at 7% growth)
-- 15% contribution gets you to $250K in ~13 years
+- $2,400/year of match grows to ~$227,000 over 30 years (at 7% growth)
+- 15% contribution + match (~$14,400/year) gets you to $250K in ~12 years
 
 ### 2️⃣ Max Out Roth IRA Every Year
 
 **Immediate Action:**
-- Contribute **$7,000/year** (2026 limit)
-- Set up automatic monthly transfer: **$583/month**
+- Contribute **$7,500/year** (2026 limit)
+- Set up automatic monthly transfer: **$625/month**
 - Invest in aggressive growth index funds
 
 **Why it matters:**
 - Tax-free growth for 30+ years
 - Flexibility for early retirement (withdraw contributions penalty-free)
-- $7K/year for 30 years = **$664,000 tax-free** (at 7% growth)
+- $7,500/year for 30 years = **~$708,000 tax-free** (at 7% growth)
 - Critical for early retirement access before age 59½
 
-**⚠️ High Earners (Income >$165K):**
-- Roth IRA phases out at $165K-$180K (single) or $246K-$261K (married) — verify current limits at IRS.gov each year
+**⚠️ High Earners (Income >$153K single / $242K married):**
+- In 2026, the Roth IRA phases out at $153K-$168K (single) or $242K-$252K (married). Verify the current limits at IRS.gov each year.
 - Use Backdoor Roth IRA strategy (still works!)
-- If employer allows (like Amazon), consider **Mega Backdoor Roth** for up to $46K more/year
+- If employer allows (like Amazon), consider **Mega Backdoor Roth** for up to ~$45K more/year
 - See [Age-Based Priorities](./docs/age-based-priorities.md#important-income-limits--advanced-strategies) for details
 
 ### 3️⃣ Adopt the "Pay Yourself First" 30% Savings Rule
@@ -48,12 +63,12 @@
 **Immediate Action:**
 - Save/invest **30% of gross income = $24,000/year minimum**
   - 401(k): $12,000-$16,000 (15-20%)
-  - Roth IRA: $7,000
-  - Taxable brokerage: $1,000-$5,000
+  - Roth IRA: $7,500
+  - Taxable brokerage: $500-$4,500
 
 **Path to $250K:**
-- $24K/year at 8% returns = **$250K in 8.5 years** (by age ~33)
-- $24K/year at 10% returns = **$250K in 7.8 years** (by age ~32)
+- $24K/year at 8% returns = **$250K in ~7.9 years** (by age ~33)
+- $24K/year at 10% returns = **$250K in ~7.5 years** (by age ~32-33)
 
 ### 4️⃣ Build an Aggressive, Low-Cost Investment Portfolio
 
@@ -88,11 +103,11 @@
 | Age | Milestone | Total Savings |
 |-----|-----------|---------------|
 | **33-34** | 🎯 **First $250K** | $250,000 |
-| 40 | Half-millionaire | $550,000 |
-| 50 | Millionaire+ | $1,400,000 |
-| **55** | **Retire on your terms** | **$2,100,000** |
+| 40 | Over half a million | $650,000 |
+| 50 | Millionaire+ | $1,750,000 |
+| **55** | **Retire on your terms** | **$2,700,000** |
 
-*Assumes $24K/year savings at 8% annual return*
+*Assumes $24K/year saved from age 25 at an 8% annual return. These are **nominal** dollars. After ~3% inflation, $2.7M at 55 buys about what **$1.6M** buys today, which is why the guide's retirement target is stated as $1.5-2M in today's dollars.*
 
 ## 📚 Detailed Guides
 
@@ -119,7 +134,7 @@
 
 - [ ] Increase 401(k) contribution to at least 15%
 - [ ] Open Roth IRA account (Vanguard, Fidelity, or Schwab recommended)
-- [ ] Set up automatic monthly Roth IRA contribution ($583)
+- [ ] Set up automatic monthly Roth IRA contribution ($625)
 - [ ] Choose index funds for investments
 - [ ] Create budget to track all expenses
 - [ ] Set up automatic bill payments to never miss 401(k)/IRA contributions
@@ -131,9 +146,9 @@
 | Category | Amount | % of Net |
 |----------|--------|----------|
 | 401(k) pre-tax (15%) | $1,000 | — (reduces taxable income) |
-| Roth IRA | $583 | 12% of net |
+| Roth IRA | $625 | 12.5% of net |
 | Living Expenses | $4,000 | 80% of net |
-| **Remaining** | ~$417 | ~8% |
+| **Remaining** | ~$375 | ~7.5% |
 
 *Note: The 401(k) contribution reduces your taxable income and paycheck withholding, so it doesn't come straight out of your $5,000 net figure above. Budget is tight but workable — prioritize the match and Roth IRA first, then build up over time.*
 
@@ -183,7 +198,7 @@ This guide is provided under the MIT License. Feel free to share and adapt for p
 
 ---
 
-**Last Updated:** June 2026
+**Last Updated:** September 2026
 **Created by:** Retiree giving advice to younger self
 
 ---

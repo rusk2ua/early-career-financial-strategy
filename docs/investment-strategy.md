@@ -112,10 +112,12 @@ Stock Allocation (60%):
 |-----------|--------|---------------|----------------|
 | US Total Market | VTI (ETF) | 0.03% | $1 |
 | US Total Market | VTSAX (MF) | 0.04% | $3,000 |
-| International | VXUS (ETF) | 0.07% | $1 |
-| International | VTIAX (MF) | 0.11% | $3,000 |
+| International | VXUS (ETF) | 0.05% | $1 |
+| International | VTIAX (MF) | 0.09% | $3,000 |
 | Total Bond | BND (ETF) | 0.03% | $1 |
-| Total Bond | VBTLX (MF) | 0.05% | $3,000 |
+| Total Bond | VBTLX (MF) | 0.04% | $3,000 |
+
+*Vanguard cut fees on many funds in 2025. Expense ratios change, so check the fund page before buying.*
 
 **Vanguard Target Date Fund Alternative:**
 - VFFVX (Target 2055) - 0.08% expense ratio
@@ -147,16 +149,16 @@ Stock Allocation (60%):
 
 ---
 
-## 💰 Sample Portfolio: Age 25 with $7,000 Roth IRA
+## 💰 Sample Portfolio: Age 25 with $7,500 Roth IRA (2026 max)
 
 ### Option 1: Three-Fund Portfolio (Recommended)
 
 ```
-Total: $7,000
+Total: $7,500
 
-US Total Market (VTI):     $4,900 (70%)
-International (VXUS):      $1,400 (20%)
-Total Bond (BND):          $700  (10%)
+US Total Market (VTI):     $5,250 (70%)
+International (VXUS):      $1,500 (20%)
+Total Bond (BND):          $750  (10%)
 ```
 
 **Maintenance:**
@@ -167,24 +169,24 @@ Total Bond (BND):          $700  (10%)
 ### Option 2: Target Date Fund (Easiest)
 
 ```
-Total: $7,000
+Total: $7,500
 
-Vanguard Target 2060 (VTTSX): $7,000 (100%)
+Vanguard Target 2060 (VTTSX): $7,500 (100%)
 ```
 
 **Maintenance:**
 - None required
 - Automatic rebalancing
-- Slightly higher fees (0.08% vs 0.03-0.04%)
+- Slightly higher fees (0.08% vs 0.03-0.05%)
 - Perfect for beginners
 
 ### Option 3: Two-Fund Portfolio (Simpler)
 
 ```
-Total: $7,000
+Total: $7,500
 
-US Total Market (VTI):     $6,300 (90%)
-Total Bond (BND):          $700  (10%)
+US Total Market (VTI):     $6,750 (90%)
+Total Bond (BND):          $750  (10%)
 ```
 
 **Maintenance:**
@@ -205,9 +207,9 @@ Total Bond (BND):          $700  (10%)
 | 60/40 | 8% | -24% | +18% | $10.06 |
 
 **Key Insight:** The difference between 10% and 8% over 30 years is MASSIVE:
-- $7K/year at 10% = $1.23 million
-- $7K/year at 8% = $850K
-- **Difference: $380K!**
+- $7,500/year at 10% = $1.23 million
+- $7,500/year at 8% = $850K
+- **Difference: ~$380K!**
 
 This is why aggressive allocation in your 20s-30s is crucial.
 
@@ -261,10 +263,10 @@ Or: Invest new money entirely in VXUS and BND
 - "Time in market > timing the market"
 
 ### ❌ Don't Pay High Fees
-- 1% fee vs 0.04% fee = $590K difference over 40 years!
+- 1% fee vs 0.04% fee = ~$400K difference over 40 years (on $7K/year at 8%)
 - Actively managed funds rarely beat index
 - Avoid funds with expense ratios >0.20%
-- Every 0.1% in fees costs you ~$100K in retirement
+- Even 0.1% in extra fees costs ~$47K over 40 years on $7K/year
 
 ### ❌ Don't Panic Sell in Bear Markets
 
@@ -304,22 +306,22 @@ If you miss just the 10 best trading days over a 30-year period, your returns ar
 ```
 Action:
 - Open Roth IRA at Vanguard
-- Invest $7,000 in three-fund portfolio
-- Set up automatic monthly $583 contribution
+- Invest $7,500 in three-fund portfolio
+- Set up automatic monthly $625 contribution
 - Choose 90/10 allocation
 
 Holdings:
-- VTI: $4,900
-- VXUS: $1,400
-- BND: $700
+- VTI: $5,250
+- VXUS: $1,500
+- BND: $750
 ```
 
 ### Year 5 (Age 29):
 ```
-Portfolio Value: ~$42,000 (at 8% growth)
-- VTI: $29,400
-- VXUS: $8,400
-- BND: $4,200
+Portfolio Value: ~$44,000 (at 8% growth)
+- VTI: $30,800
+- VXUS: $8,800
+- BND: $4,400
 
 Action:
 - Continue automatic contributions
@@ -329,10 +331,10 @@ Action:
 
 ### Year 10 (Age 34):
 ```
-Portfolio Value: ~$110,000 (at 8% growth)
-- VTI: $77,000
-- VXUS: $22,000
-- BND: $11,000
+Portfolio Value: ~$109,000 (at 8% growth)
+- VTI: $76,300
+- VXUS: $21,800
+- BND: $10,900
 
 Action:
 - Consider shifting to 85/15 allocation
@@ -342,7 +344,7 @@ Action:
 
 ### Year 20 (Age 44):
 ```
-Portfolio Value: ~$330,000 (at 8% growth)
+Portfolio Value: ~$343,000 (at 8% growth)
 
 Action:
 - Shift to 70/30 allocation
@@ -394,32 +396,33 @@ Action:
 ### Mega Backdoor Roth (Advanced Strategy for High Earners)
 
 **What it is:**
-The Mega Backdoor Roth is a powerful strategy that allows you to contribute significantly more to Roth accounts beyond the standard $7,000 Roth IRA limit. This is especially valuable for:
+The Mega Backdoor Roth is a powerful strategy that allows you to contribute significantly more to Roth accounts beyond the standard $7,500 Roth IRA limit (2026). This is especially valuable for:
 - High earners who exceed Roth IRA income limits
 - Those who want to maximize tax-free retirement savings
 - Anyone with an employer that supports this feature
 
 **How it works:**
-1. Max out regular 401(k) contributions ($23,500 in 2026)
+1. Max out regular 401(k) contributions ($24,500 in 2026)
 2. Make additional **after-tax** (not Roth, not pre-tax) contributions to 401(k)
 3. Immediately convert those after-tax contributions to Roth 401(k) or Roth IRA
 4. Result: Tax-free growth forever, just like a Roth IRA
 
 **The Math:**
 ```
-2026 Total 401(k) Limit:              ~$70,000 (verify at IRS.gov)
-Your contribution (pre-tax):          -$23,500
+2026 Total 401(k) Limit (415(c)):     $72,000
+Your contribution (pre-tax):          -$24,500
 Employer match (3% on $80K):          -$2,400
-Remaining for after-tax:              ~$44,100
+Remaining for after-tax:              $45,100
 
-Potential Mega Backdoor Roth:         ~$44,100/year!
+Potential Mega Backdoor Roth:         $45,100/year!
+(Catch-up contributions at 50+ sit on top of the $72,000.)
 ```
 
 **Requirements (ALL must be met):**
 1. ✅ Employer 401(k) plan allows **after-tax contributions** (not just Roth 401(k))
 2. ✅ Employer plan allows **in-service conversions** (convert while still employed)
-3. ✅ You've already maxed regular 401(k) ($23,500)
-4. ✅ You have extra cash flow to contribute beyond the $23,500
+3. ✅ You've already maxed regular 401(k) ($24,500)
+4. ✅ You have extra cash flow to contribute beyond the $24,500
 
 **Known Employers Supporting Mega Backdoor Roth:**
 - ✅ **Amazon** - Full support for Mega Backdoor Roth
@@ -443,41 +446,42 @@ Potential Mega Backdoor Roth:         ~$44,100/year!
 
 | Strategy | Annual Limit | Tax Benefit | Income Limits |
 |----------|--------------|-------------|---------------|
-| Roth IRA | $7,000 | Tax-free growth | Yes ($150K-$165K phase-out) |
-| Roth 401(k) | $23,500 | Tax-free growth | No income limits |
-| **Mega Backdoor Roth** | **Up to ~$44,100** | **Tax-free growth** | **No income limits** |
+| Roth IRA | $7,500 | Tax-free growth | Yes ($153K-$168K single phase-out) |
+| Roth 401(k) | $24,500 | Tax-free growth | No income limits |
+| **Mega Backdoor Roth** | **Up to ~$45,100** | **Tax-free growth** | **No income limits** |
 
 **Example Timeline:**
 ```
 January 2026:
-- Set 401(k) to $1,958/month ($23,500/year)
-- Set after-tax 401(k) to $3,675/month ($44,100/year)
+- Set 401(k) to $2,042/month ($24,500/year)
+- Set after-tax 401(k) to $3,758/month ($45,100/year)
 - Enable automatic in-service conversion to Roth
 
 Every paycheck:
-- $1,958 goes to pre-tax 401(k)
-- $3,675 goes to after-tax 401(k)
+- $2,042 goes to pre-tax 401(k)
+- $3,758 goes to after-tax 401(k)
 - After-tax amount automatically converts to Roth 401(k)
 
 End of year:
-- Pre-tax 401(k): $23,500 (compounds tax-deferred)
-- Roth 401(k): $44,100 (compounds tax-free!)
-- Total: $67,600 in retirement accounts!
+- Pre-tax 401(k): $24,500 (compounds tax-deferred)
+- Roth 401(k): $45,100 (compounds tax-free!)
+- Total: $69,600 in retirement accounts (plus employer match)!
 ```
 
 **30-Year Impact:**
 ```
-Mega Backdoor Roth ($44,100/year for 30 years at 8%):
-- Total contributed: $1,323,000
-- Value at retirement: $5,439,000
-- All tax-free withdrawals: Save ~$1,087,800 in taxes!
+Mega Backdoor Roth ($45,100/year for 30 years at 8%):
+- Total contributed: $1,353,000
+- Value at retirement: ~$5,109,000
+- All withdrawals tax-free
 
-Regular investing ($44,100/year in taxable account):
-- Value at retirement: $5,439,000
-- Taxes on gains (20%): -$1,087,800
-- Net: $4,351,200
+Regular investing ($45,100/year in taxable account):
+- Value at retirement: ~$5,109,000 (before yearly dividend taxes)
+- Taxes on ~$3,756,000 of gains (20%): -$751,000
+- Net: ~$4,358,000
 
-Mega Backdoor advantage: $1,087,800!
+Mega Backdoor advantage: ~$751,000+
+(More in practice, because a taxable account also pays tax on dividends every year)
 ```
 
 **When to Use Mega Backdoor Roth:**
@@ -501,8 +505,8 @@ Mega Backdoor advantage: $1,087,800!
 - If you leave your job, you can roll Roth 401(k) to Roth IRA
 
 **Action Steps if Your Employer Offers This:**
-1. Max out regular 401(k) first ($23,500)
-2. Max out Roth IRA first ($7,000)
+1. Max out regular 401(k) first ($24,500)
+2. Max out Roth IRA first ($7,500)
 3. Contact 401(k) administrator to set up after-tax contributions
 4. Set up automatic in-service conversions to Roth
 5. Contribute as much extra as you can afford
@@ -528,7 +532,7 @@ Amazon's 401(k) plan (through Fidelity) fully supports Mega Backdoor Roth with a
 4. Create investment policy statement
 
 ### This Year:
-1. Max Roth IRA ($7,000)
+1. Max Roth IRA ($7,500)
 2. Increase 401(k) to 15%
 3. Read "The Simple Path to Wealth"
 4. Track net worth monthly
@@ -552,8 +556,6 @@ Amazon's 401(k) plan (through Fidelity) fully supports Mega Backdoor Roth with a
 ---
 
 **Remember:** The best investment strategy is the one you can stick with for 30 years. Keep it simple, keep it low-cost, and stay the course!
-
----
 
 ---
 

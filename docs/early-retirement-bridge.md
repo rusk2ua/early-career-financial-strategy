@@ -28,7 +28,7 @@ You need THREE buckets of money for early retirement:
 ### Bucket 3: Ages 70+ (Late Retirement)
 **Traditional 401(k)/IRA**
 - Required Minimum Distributions (RMDs)
-- Social Security (if it still exists)
+- Social Security (current projections show ~80% of scheduled benefits still payable after the trust fund runs short in the mid-2030s, unless Congress acts. Plan conservatively, but don't plan on zero.)
 - Remaining Roth IRA funds
 
 ---
@@ -245,11 +245,12 @@ Social Security (age 62+):          Reduced benefit if taken early
 ### Ages 55-65 (Before Medicare)
 
 **Option 1: ACA Marketplace (Obamacare)**
-- Cost: $500-$1,200/month depending on income
-- Subsidies available if income is below ~400% of federal poverty level (~$60K for single)
-- Strategy: Keep taxable income low to maximize subsidies
-- **Critical:** Roth IRA contributions and long-term capital gains at the 0% rate don't count as income for ACA subsidy purposes — this is a major tax advantage of the Roth and taxable brokerage approach
-- **Watch the subsidy cliff:** Going even $1 over the threshold can cost thousands in lost subsidies — plan withdrawals carefully
+- Cost: $500-$1,200+/month depending on age, location, and income
+- **2026 update:** The pandemic-era "enhanced" subsidies expired on December 31, 2025, and Congress hasn't restored them as of September 2026. Subsidies again stop completely at **400% of the federal poverty level** (about $62,600 for a single person, or $84,600 for a couple, for 2026 coverage).
+- **Watch the subsidy cliff:** At 400.00% of FPL you still get a subsidy. At 400.01% you get $0. For a 60-year-old couple, going $1 over the line can cost $10,000+ a year in lost subsidies. Plan withdrawals carefully.
+- Strategy: Keep *modified AGI* under the cliff during ages 55-64
+- **How your accounts count toward ACA income:** Withdrawals of Roth IRA contributions don't count. When you sell from a taxable brokerage account, only the **gain** counts, not your original cost basis. That makes Roth and taxable accounts the best tools for controlling ACA income. Traditional 401(k)/IRA withdrawals and Roth conversions count in full.
+- Check this again before you retire. Subsidy rules have changed several times since 2021 and may change again.
 
 **Option 2: COBRA (18 months max)**
 - Continue employer health insurance
@@ -270,12 +271,12 @@ Social Security (age 62+):          Reduced benefit if taken early
 
 **Much cheaper and better:**
 - Medicare Part A: Free (hospital, if you have 40+ quarters of work history)
-- Medicare Part B: ~$185/month (doctor — adjusts annually, higher if income exceeds $106K)
+- Medicare Part B: $202.90/month in 2026 (doctor — rises most years)
 - Medicare Part D: $30-$60/month (drugs)
 - Medigap (Supplement): $150-$300/month (fills gaps)
-- **Total: ~$365-545/month** vs $800-1,200 before 65
+- **Total: ~$385-565/month per person** vs $800-1,200+ before 65
 
-*Note: High earners pay IRMAA surcharges on Medicare Parts B and D. At $150K+ income, monthly Part B premium can exceed $400. This is another reason to manage taxable income carefully in retirement.*
+*Note: Higher-income retirees pay IRMAA surcharges on Parts B and D. In 2026, surcharges start above $109,000 of income (single) or $218,000 (joint). They're based on your tax return from two years earlier, and they push Part B as high as $689.90/month. This is another reason to manage taxable income, and to finish large Roth conversions before age 63.*
 
 ---
 
@@ -284,7 +285,7 @@ Social Security (age 62+):          Reduced benefit if taken early
 ### Age 25-40: Accumulation Phase
 ```
 Focus:
-- Max Roth IRA ($7K/year)
+- Max Roth IRA ($7.5K/year)
 - Increase 401(k) to 15-20%
 - Start taxable brokerage at age 35
 - Build 3-6 month emergency fund
@@ -293,8 +294,8 @@ Focus:
 ### Age 40-50: Acceleration Phase
 ```
 Focus:
-- Max 401(k) ($23.5K/year)
-- Max Roth IRA ($7-8K/year)
+- Max 401(k) ($24.5K/year in 2026)
+- Max Roth IRA ($7.5K/year)
 - Heavily fund taxable brokerage ($10K+/year)
 - Increase emergency fund to 12 months
 ```
@@ -302,8 +303,8 @@ Focus:
 ### Age 50-55: Final Push
 ```
 Focus:
-- Max 401(k) with catch-up ($31K/year)
-- Max Roth IRA with catch-up ($8K/year)
+- Max 401(k) with catch-up ($32.5K/year; catch-up goes to Roth if prior-year wages > $150K)
+- Max Roth IRA with catch-up ($8.6K/year)
 - Continue taxable brokerage
 - Save healthcare bridge fund ($50K)
 - Shift to conservative allocation (70/30)
@@ -341,11 +342,11 @@ Action:
 - Maximize Rule of 55 access
 
 ### 3. Optimize Tax Brackets and ACA Subsidies
-- Keep *taxable income* low to minimize ACA premiums and maximize subsidies
+- Keep *modified AGI* low to minimize ACA premiums and stay under the 400% FPL subsidy cliff
 - Roth withdrawals (contributions) are tax-free and don't count as income — invaluable here
-- Long-term capital gains at the 0% rate (income under ~$48K single) also don't push you over the subsidy cliff
+- Long-term capital gains are taxed at 0% federally if your taxable income is under $49,450 single / $98,900 married (2026). Be careful, though: those gains *still count* as ACA income, even when the tax on them is $0.
 - Only take what you need from tax-deferred accounts — every extra dollar withdrawn is both taxable income and a hit to your ACA subsidy
-- Consider doing Roth conversions in the 12% bracket during low-income early retirement years to reduce future RMDs
+- Consider Roth conversions in the 12% bracket during low-income early retirement years to reduce future RMDs, which start at 75 for anyone born 1960 or later. Weigh each conversion against its ACA cost, because converted amounts count as income.
 
 ### 4. Build Healthcare Fund Separately
 - $50K in cash/bonds by age 55
